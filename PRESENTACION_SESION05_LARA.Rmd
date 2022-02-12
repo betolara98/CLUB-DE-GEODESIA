@@ -1,0 +1,126 @@
+---
+output: 
+  revealjs::revealjs_presentation:
+    self_contained: false
+    reveal_plugins: ["search", "zoom", "notes", "chalkboard", "menu"]
+    reveal_options:
+      chalkboard: 
+          theme: chalkboard
+          toggleNotesButton: true
+      menu:
+        numbers: true
+    theme: simple
+    transition: convex
+    css: styles.css
+---
+
+#
+![Imagen](PPT1.PNG){width=2000 height=680}
+
+
+#
+![Imagen](PPT2.PNG){width=2000 height=680}
+
+#
+![Imagen](PPT3.PNG){width=2000 height=680}
+
+#
+![Imagen](PPT4.PNG){width=2000 height=680}
+
+## GEODESIA FÍSICA
+
+![texto_alternativo](giphy.gif){width=1000 height=550}
+
+
+##
+![Imagen](PPT6_1.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_2.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_3.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_4.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_5.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_6.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_7.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_8.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_9.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_10.png){width=2000 height=680}
+
+##
+![Imagen](PPT6_11.png){width=2000 height=680}
+
+
+##
+![Imagen](PPT7.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT8.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT9.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT10.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT11.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT12.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT13.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT14.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT15.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT16.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT17.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT18.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT19.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT20.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT21.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT22.PNG){width=2000 height=680}
+
+##
+![Imagen](PPT23.PNG){width=2000 height=680}
+
+
+
+
+
+
+
+
